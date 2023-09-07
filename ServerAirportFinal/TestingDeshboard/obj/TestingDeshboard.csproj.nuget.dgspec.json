@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\TestingDeshboard\\TestingDeshboard.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\LandingSimulator1\\LandingSimulator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\LandingSimulator1\\LandingSimulator.csproj",
+        "projectName": "LandingSimulator",
+        "projectPath": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\LandingSimulator1\\LandingSimulator.csproj",
+        "packagesPath": "C:\\Users\\yoniv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\LandingSimulator1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yoniv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\ServerAirportFinal\\ServerAirportFinal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\ServerAirportFinal\\ServerAirportFinal.csproj",
+        "projectName": "ServerAirportFinal",
+        "projectPath": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\ServerAirportFinal\\ServerAirportFinal.csproj",
+        "packagesPath": "C:\\Users\\yoniv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\ServerAirportFinal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yoniv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\LandingSimulator1\\LandingSimulator.csproj": {
+                "projectPath": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\LandingSimulator1\\LandingSimulator.csproj"
+              },
+              "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\TakingOffSimulator1\\TakingOffSimulator.csproj": {
+                "projectPath": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\TakingOffSimulator1\\TakingOffSimulator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\TakingOffSimulator1\\TakingOffSimulator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\TakingOffSimulator1\\TakingOffSimulator.csproj",
+        "projectName": "TakingOffSimulator",
+        "projectPath": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\TakingOffSimulator1\\TakingOffSimulator.csproj",
+        "packagesPath": "C:\\Users\\yoniv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\TakingOffSimulator1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yoniv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\TestingDeshboard\\TestingDeshboard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\TestingDeshboard\\TestingDeshboard.csproj",
+        "projectName": "TestingDeshboard",
+        "projectPath": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\TestingDeshboard\\TestingDeshboard.csproj",
+        "packagesPath": "C:\\Users\\yoniv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\TestingDeshboard\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yoniv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\ServerAirportFinal\\ServerAirportFinal.csproj": {
+                "projectPath": "C:\\Users\\yoniv\\OneDrive\\שולחן העבודה\\פרוייקטים עובדים\\FlightProject\\ServerAirportFinal\\ServerAirportFinal\\ServerAirportFinal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ConsoleTables": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
