@@ -1,0 +1,35 @@
+.DepartureColorKey{
+    height: 15px;
+    width: 15px;
+    background-color: blue;
+    margin-top: 10px;
+}
+
+.LandingColorKey{
+    height: 15px;
+    width: 15px;
+    background-color: red;
+    margin-top: 10px;
+}
+
+.legendKeyContainer{
+    overflow:hidden;
+    text-align: left;
+    width: 100px;
+    margin-left: 1rem;;
+}
+
+.div1{
+    float:left;
+}
+.div2{
+    float: right;
+}
+
+.div1 h5{
+    color:white;
+    height: 3px;
+    margin-top: 4px;
+    font-weight:normal;
+}
+
