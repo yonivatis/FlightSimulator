@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\LandingSimulator1\bin\Debug\net6.0\LandingSimulator.deps.json
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\LandingSimulator1\bin\Debug\net6.0\LandingSimulator.dll
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\LandingSimulator1\bin\Debug\net6.0\LandingSimulator.pdb
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.dll
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\refint\LandingSimulator.dll
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.pdb
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\ref\LandingSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\LandingSimulator1\bin\Debug\net6.0\LandingSimulator.deps.json
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\LandingSimulator1\bin\Debug\net6.0\LandingSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\LandingSimulator1\bin\Debug\net6.0\LandingSimulator.pdb
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.csproj.AssemblyReference.cache
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.AssemblyInfoInputs.cache
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.AssemblyInfo.cs
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.csproj.CoreCompileInputs.cache
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\refint\LandingSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.pdb
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\ref\LandingSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\LandingSimulator1\bin\Debug\net6.0\LandingSimulator.deps.json
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\LandingSimulator1\bin\Debug\net6.0\LandingSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\LandingSimulator1\bin\Debug\net6.0\LandingSimulator.pdb
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.csproj.AssemblyReference.cache
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.AssemblyInfoInputs.cache
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.AssemblyInfo.cs
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.csproj.CoreCompileInputs.cache
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\refint\LandingSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\LandingSimulator.pdb
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\LandingSimulator1\obj\Debug\net6.0\ref\LandingSimulator.dll
