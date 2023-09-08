@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\TakingOffSimulator1\bin\Debug\net6.0\TakingOffSimulator.deps.json
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\TakingOffSimulator1\bin\Debug\net6.0\TakingOffSimulator.dll
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\TakingOffSimulator1\bin\Debug\net6.0\TakingOffSimulator.pdb
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.dll
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\refint\TakingOffSimulator.dll
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.pdb
+C:\Users\Administrator\Desktop\Amir\other\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\ref\TakingOffSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\TakingOffSimulator1\bin\Debug\net6.0\TakingOffSimulator.deps.json
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\TakingOffSimulator1\bin\Debug\net6.0\TakingOffSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\TakingOffSimulator1\bin\Debug\net6.0\TakingOffSimulator.pdb
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.csproj.AssemblyReference.cache
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.AssemblyInfoInputs.cache
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.AssemblyInfo.cs
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.csproj.CoreCompileInputs.cache
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\refint\TakingOffSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.pdb
+C:\Users\yoniv\OneDrive\שולחן העבודה\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\ref\TakingOffSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\TakingOffSimulator1\bin\Debug\net6.0\TakingOffSimulator.deps.json
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\TakingOffSimulator1\bin\Debug\net6.0\TakingOffSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\TakingOffSimulator1\bin\Debug\net6.0\TakingOffSimulator.pdb
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.csproj.AssemblyReference.cache
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.AssemblyInfoInputs.cache
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.AssemblyInfo.cs
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.csproj.CoreCompileInputs.cache
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\refint\TakingOffSimulator.dll
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\TakingOffSimulator.pdb
+C:\Users\yoniv\OneDrive\שולחן העבודה\פרוייקטים עובדים\FlightProject\ServerAirportFinal\TakingOffSimulator1\obj\Debug\net6.0\ref\TakingOffSimulator.dll
